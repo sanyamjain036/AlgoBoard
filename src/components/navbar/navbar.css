@@ -1,0 +1,20 @@
+.navbar-nav {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: #fff;
+  padding: 8px;
+  margin-left: 5px;
+  height: 600px;
+  box-shadow: 0px 0px 40px 0px #0000001a;
+}
+.navbar-nav li {
+  cursor: pointer;
+}
+.size-dropdown{
+  padding:2px;
+  background-color: #fff;
+  outline: none;
+  border-radius: 5px;
+}
